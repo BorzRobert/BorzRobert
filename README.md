@@ -1,4 +1,4 @@
-<h1 align="left">🧙‍♂️Personal pieces of infromation:</h1>
+<h1 align="left">🧙‍♂️Personal pieces of information:</h1>
 
 ###
 
