@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🏛️ I’m currently a Computer Science student at Cluj-Napoca Technical University<br>👨‍💻<br>🌱 I eagerly anticipate acquiring extensive knowledge across various domains, aiming to specialize in those that captivate me the most.<br>📧 You can contact me at: <b>borzrobert2002@gmail.com </p>
+<p align="left">🏛️ Computer Science student at Cluj-Napoca Technical University<br>👨‍💻<br>🌱 I eagerly anticipate acquiring extensive knowledge across various domains, aiming to specialize in those that captivate me the most.<br>📧 You can contact me at: <b>borzrobert2002@gmail.com </p>
 
 ###
 
