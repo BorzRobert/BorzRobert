@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👨‍💻 Software Developer at <a href="https://tss-yonder.com/">Yonder</a><br>🏛️ Computer Science student at <a href="https://www.utcluj.ro/">Technical University of Cluj-Napoca</a><br>🌱 I eagerly anticipate acquiring extensive knowledge across various domains, aiming to specialize in those that captivate me the most.<br>📧 You can contact me at: <b>borzrobert2002@gmail.com </p>
+<p align="left">👨‍💻 Software Developer at <a href="https://tss-yonder.com/">Yonder</a><br>🏛️ Computer Engineering graduate from the <a href="https://www.utcluj.ro/">Technical University of Cluj-Napoca</a><br>🌱 I eagerly anticipate acquiring extensive knowledge across various domains, aiming to specialize in those that captivate me the most.<br>📧 You can contact me at: <b>borzrobert2002@gmail.com </p>
 
 ###
 
